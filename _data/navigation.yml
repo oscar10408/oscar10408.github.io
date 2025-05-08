@@ -2,11 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "ML/AI"
+    url: https://oscar10408.github.io/ai-ml/
+  - title: "Data Analysis"
+    url: https://oscar10408.github.io/data_analysis/
+  - title: "Finance"
+    url: ttps://oscar10408.github.io/finance/
   # - title: "Sitemap"
   #   url: /sitemap/
