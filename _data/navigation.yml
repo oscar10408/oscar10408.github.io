@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "ML/AI"
     url: https://oscar10408.github.io/ai-ml/
   - title: "Data Analysis"
     url: https://oscar10408.github.io/data_analysis/
   - title: "Finance"
     url: ttps://oscar10408.github.io/finance/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resume"
+    url: /assets/resume.pdf
