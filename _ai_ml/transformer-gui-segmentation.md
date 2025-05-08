@@ -18,7 +18,7 @@ This project applies transformer-based temporal models to detect fine-grained GU
 It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and tailors it for GUI-specific use cases.
 
 - ⏱️ Detects keyframes from minimal visual changes  
-- 🔍 Improves segment boundary accuracy with post-refinement  
+- 🔍 Improves segment accuracy with post-refinement  
 - 📊 Enables downstream use cases like GUI agent training and tutorial summarization
 
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)  
