@@ -339,15 +339,13 @@ collections:
 
 # Navigation Bar
 nav:
-  - title: "Home"
-    url: "/"
-  - title: "AI / ML"
+  - title: "<i class='fas fa-brain'></i> AI / ML"
     url: "/ai-ml/"
-  - title: "Data Analysis"
+  - title: "<i class='fas fa-chart-line'></i> Data"
     url: "/data-analysis/"
-  - title: "Financial Modeling"
+  - title: "<i class='fas fa-dollar-sign'></i> Finance"
     url: "/finance/"
   - title: "Resume"
-    url: "/assets/resume.pdf"  # 你可以放自己的履歷 PDF
+    url: "/assets/resume.pdf"
   - title: "Contact"
     url: "/contact/"
