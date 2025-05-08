@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-<img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 <div>
 
@@ -26,8 +26,6 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 
 </div>
 </div>
-
----
 
 ### 📈 Results Snapshot
 
