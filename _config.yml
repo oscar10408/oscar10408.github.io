@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Oscar Shih"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **Cool** person."
   location         : "Ann Arbor, Michigan, USA"
   email            : "haochuns@umich.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:haochuns@umich.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:haochuns@umich.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://github.com/oscar10408"
