@@ -1,9 +1,37 @@
 ---
-title: "Transformer-Based GUI Video Segmentation"
-excerpt: "Applied Swin Transformer with cross-attention to segment GUI action boundaries in high-resolution user interface videos."
+title: "AI / ML Projects"
 layout: single
+permalink: /ai-ml/
+author_profile: true
 ---
 
-This project explores action segmentation in GUI-based screen recordings using transformer-based temporal models.
-We fine-tuned FACT, ASFormer, and UVAST on custom datasets, enabling precise detection of clicks, scrolls, and text input.
+## 🧠 GUI-ASFormer: Transformer-Based GUI Video Segmentation
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/gui-asformer-architecture.png" alt="GUI-ASFormer Model" style="max-width: 400px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+<div>
+
+**Description**  
+This project applies transformer-based temporal models to detect fine-grained GUI interactions (clicks, scrolls, inputs) in screen recording videos.  
+It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and tailors it for GUI-specific use cases.
+
+- ⏱️ Detects keyframes from minimal visual changes  
+- 🔍 Improves segment boundary accuracy with post-refinement  
+- 📊 Enables downstream use cases like GUI agent training and tutorial summarization
+
+🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)  
+📄 [Project Paper (PDF)](/assets/files/Detecting_keyframes_in_GUI_Videos.pdf)
+
+</div>
+</div>
+
+---
+
+### 📈 Results Snapshot
+
+![Keyframe Example](../assets/images/gui-asformer-keyframes.jpg)
+
+---
 
