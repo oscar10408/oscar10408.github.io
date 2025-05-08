@@ -10,12 +10,16 @@ search: false
 
 // 👉 Custom override: enlarge avatar
 .author__avatar-wrapper {
-  max-width: 750px !important;
+  max-width: none !important;     // 移除 wrapper 限制
+  width: 100%;                    // 讓它不再受限寬度
+  display: flex;
+  justify-content: center;        // 居中對齊
 }
 
 .author__avatar {
-  width: 100%;
+  width: 300px !important;        // 強制設定你想要的大小
+  max-width: 100%;
   height: auto;
   border-radius: 50%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
