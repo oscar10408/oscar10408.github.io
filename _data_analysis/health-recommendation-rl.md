@@ -1,5 +1,5 @@
 ---
-title: "Health Activity Recommendation using RL"
+title: "Data Analysis & Visualization Projects"
 layout: single
 permalink: /data-analysis/
 author_profile: true

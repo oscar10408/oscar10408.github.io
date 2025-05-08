@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Risk Modeling with VaR and Copulas"
+title: "Financial Modeling Projects"
 layout: single
 permalink: /finance/
 author_profile: true
