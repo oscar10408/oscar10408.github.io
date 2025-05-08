@@ -9,7 +9,13 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 // 👉 Custom override: enlarge avatar
+.author__avatar-wrapper {
+  max-width: 250px !important;  // 解除包住 avatar 的限制
+}
+
 .author__avatar {
-  width: 750px;
+  width: 100%;   // 讓圖片填滿 wrapper
   height: auto;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
