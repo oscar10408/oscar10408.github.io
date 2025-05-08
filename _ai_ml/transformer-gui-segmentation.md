@@ -22,7 +22,7 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 - 📊 Enables downstream use cases like GUI agent training and tutorial summarization
 
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)  
-📄 [Project Paper (PDF)](/assets/files/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
+📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
 
 
 ### 📈 Results Snapshot
