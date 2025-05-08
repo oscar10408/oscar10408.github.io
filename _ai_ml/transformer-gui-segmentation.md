@@ -24,8 +24,7 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)  
 📄 [Project Paper (PDF)](/assets/files/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
 
----
 
 ### 📈 Results Snapshot
 
-<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 500px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
