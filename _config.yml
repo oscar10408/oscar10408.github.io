@@ -310,6 +310,18 @@ compress_html:
   ignore:
     envs: development
 
+# Navigation Bar
+nav:
+  - title: "<i class='fas fa-brain'></i> AI / ML"
+    url: /ai-ml/
+  - title: "<i class='fas fa-chart-line'></i> Data"
+    url: /data-analysis/
+  - title: "<i class='fas fa-dollar-sign'></i> Finance"
+    url: /finance/
+  - title: "Resume"
+    url: /assets/resume.pdf
+  - title: "Contact"
+    url: /contact/
 
 # Defaults
 defaults:
@@ -337,15 +349,5 @@ collections:
     output: true
     permalink: /finance/
 
-# Navigation Bar
-nav:
-  - title: "<i class='fas fa-brain'></i> AI / ML"
-    url: "/ai-ml/"
-  - title: "<i class='fas fa-chart-line'></i> Data"
-    url: "/data-analysis/"
-  - title: "<i class='fas fa-dollar-sign'></i> Finance"
-    url: "/finance/"
-  - title: "Resume"
-    url: "/assets/resume.pdf"
-  - title: "Contact"
-    url: "/contact/"
+
+
