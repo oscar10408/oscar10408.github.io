@@ -26,3 +26,21 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 <img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 ---
+
+## 🏃 Health Activity Recommender: Contextual Bandit for Personalized Wellness  
+🔗 [GitHub Repo](https://github.com/oscar10408/Health-Activity-Recommender)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/health-recommender-1.jpg" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project develops a personalized health activity recommender using reinforcement learning.  
+By applying Thompson Sampling with contextual features, the system learns user preferences over time and adaptively suggests physical activities (e.g., walking, jogging) to boost engagement.
+
+- 🎯 Learns from user feedback and activity history  
+- 🧠 Applies contextual multi-armed bandit via Thompson Sampling  
+- 📊 Boosts user step counts by 15–20% through tailored suggestions  
+- 🔄 Reduces inactivity by adaptively refining recommendations
