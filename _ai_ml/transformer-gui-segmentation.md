@@ -23,7 +23,7 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 
 ### 📈 Results Snapshot
 
-<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 ---
 
@@ -66,3 +66,23 @@ It covers both clustering and generative modeling techniques, helping to visuali
 - 🔶 Builds Gaussian Mixture Models using EM for soft assignment and probabilistic density  
 - 🧠 Constructs a Conditional Variational Autoencoder (CVAE) to learn latent representations and generate samples conditioned on labels  
 - 📊 Visualizes clustering and latent space in 2D for real-world datasets (e.g. MNIST, synthetic blobs)
+
+---
+
+## 🧠 Transfer Learning: Vision & Language Modeling with Transformers  
+🔗 [GitHub Repo](https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project demonstrates how transfer learning enhances performance in both computer vision and language modeling tasks.  
+It includes fine-tuning a ResNet model for image classification and training a causal Transformer for GPT-style language generation.
+
+- 🖼️ Fine-tunes ResNet with limited data for high-accuracy classification  
+- 🔤 Builds transformer decoder-only model for next-token prediction  
+- 🧠 Implements self-attention and causal masking from scratch  
+- 🔁 Supports task switching across CV and NLP domains
