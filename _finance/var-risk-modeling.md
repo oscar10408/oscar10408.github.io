@@ -70,7 +70,7 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 **Description**  
 This project explores the use of copula functions to model complex dependence structures between financial assets. By separating marginal distributions from their joint dependence, copulas allow for more flexible and accurate modeling of asset correlations, especially in the tails of the distribution.
 
-- 📈 Implements various copula families, including Gaussian, t, Clayton, and Gumbel  
-- 🧪 Simulates joint distributions with specified marginal behaviors  
-- 🔍 Analyzes tail dependencies and their impact on portfolio risk  
-- 🛠️ Provides tools for visualizing and comparing different copula models
+- Implements various copula families, including Gaussian, t, Clayton, and Gumbel  
+- Simulates joint distributions with specified marginal behaviors  
+- Analyzes tail dependencies and their impact on portfolio risk  
+- Provides tools for visualizing and comparing different copula models
