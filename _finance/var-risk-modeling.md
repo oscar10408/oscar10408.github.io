@@ -70,7 +70,3 @@ This project explores the use of copula functions to model complex dependence st
 - 🧪 Simulates joint distributions with specified marginal behaviors  
 - 🔍 Analyzes tail dependencies and their impact on portfolio risk  
 - 🛠️ Provides tools for visualizing and comparing different copula models
-
-### 📊 Results Snapshot
-
-<img src="../assets/images/copula-simulation-results.jpg" alt="Copula Simulation Results" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
