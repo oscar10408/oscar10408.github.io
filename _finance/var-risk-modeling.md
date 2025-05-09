@@ -7,11 +7,11 @@ author_profile: true
 
 ## 📊 Statistical Inference and Density Estimation
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; justify-content: center;">
+<div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: center;">
 
-  <img src="../assets/images/stat-inference-kde.jpg" alt="Inference Visualization" style="max-width: 48%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="../assets/images/stat-inference-kde.jpg" alt="Inference Visualization" style="width: 45%; min-width: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
-  <img src="../assets/images/skewed-T.jpg" alt="Dkewed T" style="max-width: 48%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="../assets/images/skewed-T.jpg" alt="Skewed T" style="width: 45%; min-width: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
