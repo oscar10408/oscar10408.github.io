@@ -74,7 +74,7 @@ It covers both clustering and generative modeling techniques, helping to visuali
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-<img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 450px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
