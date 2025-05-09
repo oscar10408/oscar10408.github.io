@@ -51,11 +51,11 @@ By replacing static charts with responsive visual analytics, it allows users to 
 
   <img src="../assets/images/EDA.jpg"
        alt="EDA"
-       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+       style="height: 200px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
   <img src="../assets/images/Random_Forest.jpg"
        alt="Random Forest"
-       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+       style="height: 200px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
