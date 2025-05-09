@@ -49,3 +49,28 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 -  Implements Maximum Likelihood Estimation (MLE) for parameter fitting  
 -  Compares EVT-based VaR and ES estimates with those from historical simulation and normal distribution assumptions  
 -  Includes backtesting procedures to validate the accuracy of risk estimates
+
+---
+
+## 🔗 Robust Dependence Modeling and Copula Simulation  
+🔗 [GitHub Repo](https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/T-Copula-fit.jpeg" alt="Copula Dependence Structure" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+<img src="../assets/images/T-Copula-Simulation.jpg" alt="Copula Dependence Structure" style="max-width: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project explores the use of copula functions to model complex dependence structures between financial assets. By separating marginal distributions from their joint dependence, copulas allow for more flexible and accurate modeling of asset correlations, especially in the tails of the distribution.
+
+- 📈 Implements various copula families, including Gaussian, t, Clayton, and Gumbel  
+- 🧪 Simulates joint distributions with specified marginal behaviors  
+- 🔍 Analyzes tail dependencies and their impact on portfolio risk  
+- 🛠️ Provides tools for visualizing and comparing different copula models
+
+### 📊 Results Snapshot
+
+<img src="../assets/images/copula-simulation-results.jpg" alt="Copula Simulation Results" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
