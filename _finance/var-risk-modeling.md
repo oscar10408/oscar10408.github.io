@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 📊 Statistical Inference and Density Estimation
+🔗 [GitHub Repo](https://github.com/oscar10408/Statistical-Inference-and-Density-Estimation) 
 
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
 
@@ -29,5 +30,5 @@ It integrates both frequentist inference and simulation-based techniques applied
 - 📈 Simulates S&P 500 returns and constructs confidence intervals for financial analysis  
 - 🔍 Analyzes how estimation methods respond to bandwidth and distributional assumptions
 
-🔗 [GitHub Repo](https://github.com/oscar10408/Statistical-Inference-and-Density-Estimation)  
+---
 
