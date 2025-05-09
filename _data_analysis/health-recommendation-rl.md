@@ -54,7 +54,7 @@ By replacing static charts with responsive visual analytics, it allows users to 
 </div>
 
 **Description**  
-This project analyzes how factors like **age**, **BMI**, **smoking status**, and **number of children** influence **health insurance charges**.  
+This project analyzes how factors like **Age**, **BMI**, **Smoking status**, and **# of children** influence **Insurance Premium**.  
 By applying machine learning techniques, it builds predictive models to estimate costs and highlight key drivers behind premium differences.
 
 -  Performed **feature engineering** to handle categorical and numerical variables, including **Box-Cox transformations** for normalizing skewed data  
