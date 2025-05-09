@@ -44,3 +44,28 @@ By replacing static charts with responsive visual analytics, it allows users to 
 -  Designed for educational researchers and policy analysts to gain intuitive insights from large public datasets  
 
 ---
+## 💰 Health Insurance Cost Prediction  
+🔗 [GitHub Repo](https://github.com/oscar10408/Insurance-Regression)
+
+<div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
+
+  <img src="../assets/images/EDA.jpg"
+       alt="EDA"
+       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+  <img src="../assets/images/Random_Forest.jpg"
+       alt="Random Forest"
+       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project analyzes how factors like **age**, **BMI**, **smoking status**, and **number of children** influence **health insurance charges**.  
+By applying machine learning techniques, it builds predictive models to estimate costs and highlight key drivers behind premium differences.
+
+-  Performed **feature engineering** to handle categorical and numerical variables  
+-  Applied multiple regression methods, including **Linear Regression**, **Polynomial Regression**, and **Random Forest**  
+-  Visualized relationships between variables using charts and pairplots  
+-  Aims to support better understanding of pricing mechanisms in health insurance  
+
+---
