@@ -86,3 +86,24 @@ It includes fine-tuning a ResNet model for image classification and training a c
 - 🔤 Builds transformer decoder-only model for next-token prediction  
 - 🧠 Implements self-attention and causal masking from scratch  
 - 🔁 Supports task switching across CV and NLP domains
+
+---
+
+## 🖼️ CNN-RNN: Image Classification & Captioning from Scratch  
+🔗 [GitHub Repo](https://github.com/oscar10408/CNN-for-Image-Classification-RNN-for-Image-Captioning)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/RNN_Demo.jpg" alt="RNN_Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project implements both Convolutional Neural Networks (CNN) for image classification and Recurrent Neural Networks (RNN) for image captioning entirely from scratch using NumPy.  
+It avoids using high-level frameworks like TensorFlow or PyTorch, providing a transparent view into the inner workings of deep learning models.
+
+- 🧱 Builds CNN and RNN architectures manually with NumPy  
+- 🖼️ Applies CNNs for image classification tasks  
+- 📝 Utilizes RNNs for generating descriptive captions for images  
+
+---
