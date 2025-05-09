@@ -55,11 +55,15 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 ## 🔗 Robust Dependence Modeling and Copula Simulation  
 🔗 [GitHub Repo](https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
 
-<img src="../assets/images/T-Copula-fit.jpeg" alt="Copula Dependence Structure" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="../assets/images/T-Copula-fit.jpeg"
+       alt="T-Copula-fit"
+       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
-<img src="../assets/images/T-Copula-Simulation.jpg" alt="Copula Dependence Structure" style="max-width: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img src="../assets/images/T-Copula-Simulation.jpg"
+       alt="T-Copula-Simulation"
+       style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
