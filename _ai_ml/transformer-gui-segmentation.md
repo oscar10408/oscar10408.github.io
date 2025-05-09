@@ -32,7 +32,7 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-<img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 300px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -44,3 +44,6 @@ By applying Thompson Sampling with contextual features, the system learns user p
 - 🧠 Applies contextual multi-armed bandit via Thompson Sampling  
 - 📊 Boosts user step counts by 15–20% through tailored suggestions  
 - 🔄 Reduces inactivity by adaptively refining recommendations
+
+---
+
