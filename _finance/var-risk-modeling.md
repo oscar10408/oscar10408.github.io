@@ -59,11 +59,11 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 
   <img src="../assets/images/T-Copula-fit.jpeg"
        alt="T-Copula-fit"
-       style="height: 280px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+       style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
   <img src="../assets/images/T-Copula-Simulation.jpg"
        alt="T-Copula-Simulation"
-       style="height: 280px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+       style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
