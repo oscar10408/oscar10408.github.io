@@ -47,3 +47,22 @@ By applying Thompson Sampling with contextual features, the system learns user p
 
 ---
 
+## 🧠 Unsupervised Learning Core: K-Means, GMM, and CVAE Implementations  
+🔗 [GitHub Repo](https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+<img src="../assets/images/EigenFace.jpg" alt="EigenFace" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project explores key unsupervised learning methods and demonstrates their implementation from scratch.  
+It covers both clustering and generative modeling techniques, helping to visualize latent structures and simulate new data.
+
+- 🔵 Implements K-Means from first principles for intuitive cluster separation  
+- 🔶 Builds Gaussian Mixture Models using EM for soft assignment and probabilistic density  
+- 🧠 Constructs a Conditional Variational Autoencoder (CVAE) to learn latent representations and generate samples conditioned on labels  
+- 📊 Visualizes clustering and latent space in 2D for real-world datasets (e.g. MNIST, synthetic blobs)
