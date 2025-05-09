@@ -32,7 +32,7 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-<img src="../assets/images/health-recommender-1.jpg" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
