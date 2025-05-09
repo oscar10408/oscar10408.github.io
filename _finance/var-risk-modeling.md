@@ -24,11 +24,11 @@ author_profile: true
 This project explores advanced statistical modeling techniques using R, focusing on point estimation, distribution fitting, and density estimation.  
 It integrates both frequentist inference and simulation-based techniques applied to synthetic and financial return data.
 
-- 📐 Estimates t-distribution parameters based on kurtosis for modeling fat tails  
-- 🎯 Uses Method of Moments to fit Gaussian Mixture Models  
-- 🌐 Applies Kernel Density Estimation (KDE) and minimizes Integrated Squared Error (ISE)  
-- 📈 Simulates S&P 500 returns and constructs confidence intervals for financial analysis  
-- 🔍 Analyzes how estimation methods respond to bandwidth and distributional assumptions
+-  Estimates t-distribution parameters based on kurtosis for modeling fat tails  
+-  Uses Method of Moments to fit Gaussian Mixture Models  
+-  Applies Kernel Density Estimation (KDE) and minimizes Integrated Squared Error (ISE)  
+-  Simulates S&P 500 returns and constructs confidence intervals for financial analysis  
+-  Analyzes how estimation methods respond to bandwidth and distributional assumptions
 
 ---
 
@@ -45,7 +45,7 @@ It integrates both frequentist inference and simulation-based techniques applied
 This project applies Extreme Value Theory (EVT) to estimate tail risks in financial markets, focusing on modeling rare but impactful events such as market crashes.  
 By analyzing the extreme tails of return distributions, it provides more accurate estimations of Value at Risk (VaR) and Expected Shortfall (ES) compared to traditional methods.
 
-- 📊 Utilizes the Peaks Over Threshold (POT) method with the Generalized Pareto Distribution (GPD) for tail modeling  
-- 🧠 Implements Maximum Likelihood Estimation (MLE) for parameter fitting  
-- 📈 Compares EVT-based VaR and ES estimates with those from historical simulation and normal distribution assumptions  
-- 🧪 Includes backtesting procedures to validate the accuracy of risk estimates
+-  Utilizes the Peaks Over Threshold (POT) method with the Generalized Pareto Distribution (GPD) for tail modeling  
+-  Implements Maximum Likelihood Estimation (MLE) for parameter fitting  
+-  Compares EVT-based VaR and ES estimates with those from historical simulation and normal distribution assumptions  
+-  Includes backtesting procedures to validate the accuracy of risk estimates
