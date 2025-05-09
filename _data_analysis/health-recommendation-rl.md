@@ -47,15 +47,9 @@ By replacing static charts with responsive visual analytics, it allows users to 
 ## 💰 Health Insurance Cost Prediction  
 🔗 [GitHub Repo](https://github.com/oscar10408/Insurance-Regression)
 
-<div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-  <img src="../assets/images/EDA.jpg"
-       alt="EDA"
-       style="height: 200px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
-  <img src="../assets/images/Random_Forest.jpg"
-       alt="Random Forest"
-       style="height: 200px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/Random_Forest.jpg" alt="Random Forest" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -63,9 +57,9 @@ By replacing static charts with responsive visual analytics, it allows users to 
 This project analyzes how factors like **age**, **BMI**, **smoking status**, and **number of children** influence **health insurance charges**.  
 By applying machine learning techniques, it builds predictive models to estimate costs and highlight key drivers behind premium differences.
 
--  Performed **feature engineering** to handle categorical and numerical variables  
--  Applied multiple regression methods, including **Linear Regression**, **Polynomial Regression**, and **Random Forest**  
--  Visualized relationships between variables using charts and pairplots  
--  Aims to support better understanding of pricing mechanisms in health insurance  
+-  Performed **feature engineering** to handle categorical and numerical variables, including **Box-Cox transformations** for normalizing skewed data  
+-  Applied multiple regression methods, such as **Linear Regression**, **Polynomial Regression**, and **Random Forest**, to model insurance costs  
+-  Conducted **residual analysis** to evaluate model fit and identify potential outliers  
+-  Aims to support better understanding of pricing mechanisms and cost drivers in health insurance  
 
 ---
