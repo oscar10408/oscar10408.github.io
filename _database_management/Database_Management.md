@@ -63,3 +63,24 @@ It showcases data extraction from Oracle, transformation into JSON, and aggregat
 - Demonstrates practical skills in **data migration**, **NoSQL modeling**, and **query design**  
 
 ---
+
+## ⚙️ Grace Hash Join Implementation  
+🔗 [GitHub Repo](https://github.com/oscar10408/Grace-Hash-Join-GHJ)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/GHJ.jpg" alt="Grace Hash Join Diagram" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project implements the **Grace Hash Join** algorithm to perform efficient joins on large datasets under memory constraints.  
+It simulates disk I/O behavior, applies multi-pass partitioning, and builds memory-efficient hash tables to probe and merge matching records.
+
+- Designed partition phase using a hash function to divide large relations into disk-based buckets  
+- Developed probing phase with in-memory hash tables to join partitioned data efficiently  
+- Handled recursive repartitioning when intermediate partitions exceed available buffers  
+- Simulated buffer pool management and disk I/O to mimic realistic system limitations  
+- Demonstrates practical understanding of **external join algorithms**, **buffer optimization**, and **query execution planning**
+
+---
