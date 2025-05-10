@@ -42,3 +42,24 @@ This project demonstrates how to integrate Java applications with relational dat
 - Organized code to separate concerns between data access and business logic
 
 ---
+
+## 🍃 MongoDB User Data Analysis & Query  
+🔗 [GitHub Repo](https://github.com/oscar10408/MongoDB-User-Data-Analysis-and-Query)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<img src="../assets/images/mongodb_user_analysis.png" alt="MongoDB User Analysis" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+</div>
+
+**Description**  
+This project demonstrates how to migrate relational data to a NoSQL system and perform analytical queries using **MongoDB**.  
+It showcases data extraction from Oracle, transformation into JSON, and aggregation queries to reveal user and friendship patterns.
+
+- Extracted user data from Oracle and transformed it into MongoDB-compatible JSON documents  
+- Imported data into **MongoDB** and structured collections based on users, friendships, and cities  
+- Performed queries to analyze friend counts, restore broken friendships, and extract birth month distributions  
+- Applied MongoDB’s **aggregation framework** for efficient data grouping and statistical analysis  
+- Demonstrates practical skills in **data migration**, **NoSQL modeling**, and **query design**  
+
+---
