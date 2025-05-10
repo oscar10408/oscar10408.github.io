@@ -4,6 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "ML/AI"
     url: https://oscar10408.github.io/ai-ml/
+  - title: "Database Management"
+    url: https://oscar10408.github.io/database-management/
   - title: "Data Analysis"
     url: https://oscar10408.github.io/data-analysis/
   - title: "Finance"

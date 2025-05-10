@@ -316,6 +316,8 @@ nav:
     url: /ai-ml/
   - title: "<i class='fas fa-chart-line'></i> Data"
     url: /data-analysis/
+  - title: "<i class='fas fa-database'></i> Database Management"
+    url: /database-management/
   - title: "<i class='fas fa-dollar-sign'></i> Finance"
     url: /finance/
   - title: "Resume"
@@ -348,6 +350,9 @@ collections:
   finance:
     output: true
     permalink: /finance/
+  database_management:
+    output: true
+    permalink: /database-management/
 
 
 
