@@ -5,7 +5,7 @@ permalink: /ai-ml/
 author_profile: true
 ---
 
-## 🧠 GUI-ASFormer: Transformer-Based GUI Video Segmentation
+## 🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)   📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
