@@ -1,14 +1,19 @@
 ---
 layout: home
 author_profile: true
-title: "Featured Posts" 
-description: "To explore more of my work, feel free to browse the project links at the top of this page."
-og_title: "Oscar Shih | Data Scientist Portfolio" 
-og_description: "Projects in AI/ML, Data Analysis, and Financial Modeling"
+title: "Oscar Shih | Data Scientist Portfolio"   # 給 SEO / OG 用
+description: "Projects in AI/ML, Data Analysis, and Financial Modeling"
+header:
+  overlay: false
+  show_overlay_excerpt: false
+  caption: ""     # 不要讓主題自動顯示 description
+  overlay_filter: "none"
+  show_title: false   # ✅ ✅ 最重要的一行！抑制 title 顯示
 ---
-{% if page.description %}
-  <p style="font-size: 1.1rem; color: white; margin-top: 0.5rem;">{{ page.description }}</p>
-{% endif %}
+
+<h1>Featured Posts</h1>
+<p style="font-size: 1.1rem; color: white;">{{ page.description }}</p>
+
 
 <h2>🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation</h2>
 
