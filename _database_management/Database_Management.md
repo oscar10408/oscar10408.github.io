@@ -24,7 +24,7 @@ This project involves designing and implementing a relational database schema fo
 
 ---
 
-## 🔗 Facebook-Style JDBC Database Interaction  
+## 🖧 Facebook-Style JDBC Database Interaction  
 🔗 [GitHub Repo](https://github.com/oscar10408/facebook-JDBC)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
@@ -43,7 +43,7 @@ This project demonstrates how to integrate Java applications with relational dat
 
 ---
 
-## 🍃 MongoDB User Data Analysis & Query  
+## 🗃️ MongoDB User Data Analysis & Query  
 🔗 [GitHub Repo](https://github.com/oscar10408/MongoDB-User-Data-Analysis-and-Query)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
@@ -64,7 +64,7 @@ It showcases data extraction from Oracle, transformation into JSON, and aggregat
 
 ---
 
-## ⚙️ Grace Hash Join Implementation  
+## 📀 Grace Hash Join Implementation  
 🔗 [GitHub Repo](https://github.com/oscar10408/Grace-Hash-Join-GHJ)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">

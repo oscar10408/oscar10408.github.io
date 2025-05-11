@@ -49,7 +49,7 @@ By applying Thompson Sampling with contextual features, the system learns user p
 
 ---
 
-## 🧠 Unsupervised Learning Core: K-Means, GMM, and CVAE Implementations  
+## 🧬 Unsupervised Learning Core: K-Means, GMM, and CVAE Implementations  
 🔗 [GitHub Repo](https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
@@ -72,7 +72,7 @@ It covers both clustering and generative modeling techniques, helping to visuali
 
 ---
 
-## 🧠 Transfer Learning: Vision & Language Modeling with Transformers  
+## 🔁 Transfer Learning: Vision & Language Modeling with Transformers  
 🔗 [GitHub Repo](https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">

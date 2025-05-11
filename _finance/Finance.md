@@ -53,7 +53,7 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 
 ---
 
-## 🔗 Robust Dependence Modeling and Copula Simulation  
+## 📈 Robust Dependence Modeling and Copula Simulation  
 🔗 [GitHub Repo](https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation)
 
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
@@ -79,7 +79,7 @@ This project explores the use of copula functions to model complex dependence st
 
 ---
 
-## 📊 Multivariate Risk Modeling and Portfolio Optimization  
+## 💹 Multivariate Risk Modeling and Portfolio Optimization  
 🔗 [GitHub Repo](https://github.com/oscar10408/Multivariate-Risk-Modeling-and-Portfolio-Optimization)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
