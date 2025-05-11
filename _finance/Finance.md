@@ -9,15 +9,16 @@ author_profile: true
 🔗 [GitHub Repo](https://github.com/oscar10408/Statistical-Inference-and-Density-Estimation) 
 
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
-
+<a href="https://github.com/oscar10408/Statistical-Inference-and-Density-Estimation" target="_blank">
   <img src="../assets/images/stat-inference-kde.jpg"
        alt="Inference Visualization"
        style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+</a>
+<a href="https://github.com/oscar10408/Statistical-Inference-and-Density-Estimation" target="_blank">
   <img src="../assets/images/skewed-T.jpg"
        alt="Skewed T"
        style="height: 300px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+</a>
 </div>
 
 **Description**  
@@ -36,9 +37,9 @@ It integrates both frequentist inference and simulation-based techniques applied
 🔗 [GitHub Repo](https://github.com/oscar10408/Extreme-Value-Theory-and-Risk-Estimation)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/EST_XI.png" alt="EST Xi" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Extreme-Value-Theory-and-Risk-Estimation" target="_blank">
+     <img src="../assets/images/EST_XI.png" alt="EST Xi" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -56,15 +57,16 @@ By analyzing the extreme tails of return distributions, it provides more accurat
 🔗 [GitHub Repo](https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation)
 
 <div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
-
+<a href="https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation" target="_blank">
   <img src="../assets/images/T-Copula-fit.jpeg"
        alt="T-Copula-fit"
        style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+</a>
+<a href="https://github.com/oscar10408/Robust-Dependence-Modeling-and-Copula-Simulation" target="_blank">
   <img src="../assets/images/T-Copula-Simulation.jpg"
        alt="T-Copula-Simulation"
        style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+</a>
 </div>
 
 **Description**  
@@ -81,9 +83,9 @@ This project explores the use of copula functions to model complex dependence st
 🔗 [GitHub Repo](https://github.com/oscar10408/Multivariate-Risk-Modeling-and-Portfolio-Optimization)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/CAPM.jpg" alt="CAPM Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Multivariate-Risk-Modeling-and-Portfolio-Optimization" target="_blank">
+     <img src="../assets/images/CAPM.jpg" alt="CAPM Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  

@@ -9,9 +9,9 @@ author_profile: true
 🔗 [GitHub Repo](https://github.com/oscar10408/tornado_interactive_dashboard)   🚀 [Live App](https://si649-narrative-project.streamlit.app/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/tornado_dashboard.jpg" alt="Tornado Dashboard" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://si649-narrative-project.streamlit.app/" target="_blank">
+    <img src="../assets/images/tornado_dashboard.jpg" alt="Tornado Dashboard" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -26,12 +26,12 @@ Users can explore patterns in tornado frequency, severity, and damage metrics th
 ---
 
 ## 📊 Interactive Visualization of School Demographics and Performance 
-🔗 [GitHub Repo](https://github.com/oscar10408/Dynamic-Data-Explorer/tree/main)  
+🔗 [GitHub Repo](https://github.com/oscar10408/Dynamic-Data-Explorer)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/Interactive_chart_1.gif" alt="Dynamic Data Explorer" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Dynamic-Data-Explorer" target="_blank">
+    <img src="../assets/images/Interactive_chart_1.gif" alt="Dynamic Data Explorer" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -48,9 +48,9 @@ By replacing static charts with responsive visual analytics, it allows users to 
 🔗 [GitHub Repo](https://github.com/oscar10408/Insurance-Regression)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/Insurance_Premium.jpg" alt="Insurance Premium" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Insurance-Regression" target="_blank">
+    <img src="../assets/images/Insurance_Premium.jpg" alt="Insurance Premium" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  

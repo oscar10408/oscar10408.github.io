@@ -9,7 +9,7 @@ author_profile: true
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)   📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
-<a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+<a href="https://github.com/oscar10408/GUI-ASFormer" target="_blank">
     <img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </a>
 
@@ -33,9 +33,9 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 🔗 [GitHub Repo](https://github.com/oscar10408/Health-Activity-Recommender)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Health-Activity-Recommender" target="_blank">
+    <img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -53,11 +53,12 @@ By applying Thompson Sampling with contextual features, the system learns user p
 🔗 [GitHub Repo](https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
-<img src="../assets/images/EigenFace.jpg" alt="EigenFace" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations" target="_blank">
+    <img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+<a href="https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations" target="_blank">
+    <img src="../assets/images/EigenFace.jpg" alt="EigenFace" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -75,9 +76,9 @@ It covers both clustering and generative modeling techniques, helping to visuali
 🔗 [GitHub Repo](https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 450px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling" target="_blank">
+    <img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 450px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
@@ -95,9 +96,9 @@ It includes fine-tuning a ResNet model for image classification and training a c
 🔗 [GitHub Repo](https://github.com/oscar10408/CNN-for-Image-Classification-RNN-for-Image-Captioning)
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<img src="../assets/images/RNN_Demo.jpg" alt="RNN_Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-
+<a href="https://github.com/oscar10408/CNN-for-Image-Classification-RNN-for-Image-Captioning" target="_blank">
+    <img src="../assets/images/RNN_Demo.jpg" alt="RNN_Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
 **Description**  
