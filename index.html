@@ -1,12 +1,14 @@
 ---
 layout: home
 author_profile: true
-title: "Featured Posts"  # 這是畫面上會顯示的
+title: "Featured Posts" 
 description: "To explore more of my work, feel free to browse the project links at the top of this page."
-og_title: "Oscar Shih | Data Scientist Portfolio"  # 自訂給 Open Graph 用
+og_title: "Oscar Shih | Data Scientist Portfolio" 
 og_description: "Projects in AI/ML, Data Analysis, and Financial Modeling"
 ---
-
+{% if page.description %}
+  <p style="font-size: 1.1rem; color: white; margin-top: 0.5rem;">{{ page.description }}</p>
+{% endif %}
 
 <h2>🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation</h2>
 
