@@ -10,7 +10,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
 <a href="https://github.com/oscar10408/JP-Morgan-ML" target="_blank">
-    <img src="../assets/images/jpmorgan-ml-overview.png" alt="JPMorgan ML Project Overview" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/JP-Morgan-Overview.png" alt="JPMorgan ML Project Overview" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </a>
 
 </div>
@@ -25,10 +25,6 @@ It builds an end-to-end ML workflow for financial services analytics by combinin
 - Discovers interpretable customer segments through dimensionality reduction and clustering, helping translate raw demographic data into actionable customer groups  
 - Profiles each segment by income potential, employment patterns, education, and demographic characteristics to support strategic decision-making  
 - Connects model outputs to practical financial services use cases, including customer intelligence, campaign design, and risk-aware decision support  
-
-### 📈 Results Snapshot
-
-<img src="../assets/images/jpmorgan-classification-results.png" alt="JPMorgan Classification Results" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 ---
 
