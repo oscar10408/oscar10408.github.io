@@ -5,6 +5,33 @@ permalink: /ai-ml/
 author_profile: true
 ---
 
+## 💼 JPMorgan ML: Income Classification & Customer Segmentation  
+🔗 [GitHub Repo](https://github.com/oscar10408/JP-Morgan-ML)   📄 [Project Report (PDF)](https://github.com/oscar10408/JP-Morgan-ML/blob/main/JP_Morgan_ML_Report.pdf)
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<a href="https://github.com/oscar10408/JP-Morgan-ML" target="_blank">
+    <img src="../assets/images/jpmorgan-ml-overview.png" alt="JPMorgan ML Project Overview" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+
+</div>
+
+**Description**  
+This project was developed for a JPMorgan machine learning take-home challenge and later refined into a portfolio case study.  
+It builds an end-to-end ML workflow for financial services analytics by combining income classification with customer segmentation.
+
+- Identifies higher-income customer profiles to support customer targeting, product positioning, and marketing prioritization  
+- Evaluates multiple classification models using business-relevant metrics such as ROC-AUC, PR-AUC, threshold tuning, and confusion matrix trade-offs  
+- Adjusts decision thresholds to balance precision and recall based on different business objectives, such as reducing false positives or capturing more high-value customers  
+- Discovers interpretable customer segments through dimensionality reduction and clustering, helping translate raw demographic data into actionable customer groups  
+- Profiles each segment by income potential, employment patterns, education, and demographic characteristics to support strategic decision-making  
+- Connects model outputs to practical financial services use cases, including customer intelligence, campaign design, and risk-aware decision support  
+
+### 📈 Results Snapshot
+
+<img src="../assets/images/jpmorgan-classification-results.png" alt="JPMorgan Classification Results" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
+---
+
 ## 🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation
 🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)   📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
