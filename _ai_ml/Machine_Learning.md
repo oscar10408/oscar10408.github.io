@@ -18,7 +18,7 @@ author_profile: true
 **Description**  
 This project builds an end-to-end ML workflow for financial services analytics by combining income classification with customer segmentation.
 
-- Identifies higher-income customer profiles to support customer targeting, product positioning, and marketing prioritization  
+- Identifies higher-income profiles to support customer targeting, product positioning, and marketing prioritization  
 - Evaluates multiple classification models using metrics such as ROC-AUC, PR-AUC, threshold tuning, and confusion matrix trade-offs  
 - Discovers interpretable customer segments through dimensionality reduction and clustering, helping translate raw demographic data into actionable customer groups  
 - Profiles each segment by income potential, employment patterns, education, and demographic characteristics to support strategic decision-making  
