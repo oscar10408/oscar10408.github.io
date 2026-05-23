@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
 
 <a href="https://langgraph-multi-agent-job-tracker.streamlit.app/" target="_blank">
-    <img src="../assets/images/job-tracker-demo.png" alt="LangGraph Job Tracker Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/job-tracker.png" alt="LangGraph Job Tracker Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 </a>
 
 </div>
