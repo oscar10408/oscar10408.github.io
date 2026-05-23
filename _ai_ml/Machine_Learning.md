@@ -20,12 +20,15 @@ author_profile: true
 An agentic job search assistant powered by a LangGraph multi-agent architecture, deployed on Streamlit Cloud.  
 A supervisor agent routes user intent to specialized sub-agents, each handling a distinct task in the job application workflow.
 
-- Orchestrates a supervisor + sub-agent graph (Cover Letter, Interview Prep, Job Match, Email Scanner, Excel Manager) using LangGraph's `StateGraph`  
+- Orchestrates a supervisor + sub-agent graph (Cover Letter, Interview Prep, Job Match, Email Scanner, Excel Manager) using LangGraph
 - Automatically scrapes job descriptions from Workday, LinkedIn, and Indeed via Playwright and BeautifulSoup, with site-specific parsing strategies  
 - Scans Gmail for application status updates using the Gmail API and LLM-based batch classification, then writes results back to an Excel tracker  
-- Generates personalized cover letters and interview prep guides grounded in the user's profile and job description  
-- Scores job fit with structured match analysis and persists scores to the Excel tracker  
 - Supports multi-user sessions: each user uploads their own profile JSON, resume, and Excel tracker without affecting the default session
+
+### 📈 FlowChart of Multi-Agent
+
+<img src="../assets/images/AI-Agent-flowchart.jpg" alt="AI-Agent-flowchart" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+
 
 ---
 
