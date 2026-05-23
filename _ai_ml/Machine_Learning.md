@@ -5,6 +5,30 @@ permalink: /ai-ml/
 author_profile: true
 ---
 
+## 🤖 LangGraph Multi-Agent Job Tracker
+🔗 [GitHub Repo](https://github.com/oscar10408/Langgraph-Multi-Agent-Job-Tracker)   🚀 [Live Demo](https://langgraph-multi-agent-job-tracker.streamlit.app/)
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+
+<a href="https://langgraph-multi-agent-job-tracker.streamlit.app/" target="_blank">
+    <img src="../assets/images/job-tracker-demo.png" alt="LangGraph Job Tracker Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+
+</div>
+
+**Description**  
+An agentic job search assistant powered by a LangGraph multi-agent architecture, deployed on Streamlit Cloud.  
+A supervisor agent routes user intent to specialized sub-agents, each handling a distinct task in the job application workflow.
+
+- Orchestrates a supervisor + sub-agent graph (Cover Letter, Interview Prep, Job Match, Email Scanner, Excel Manager) using LangGraph's `StateGraph`  
+- Automatically scrapes job descriptions from Workday, LinkedIn, and Indeed via Playwright and BeautifulSoup, with site-specific parsing strategies  
+- Scans Gmail for application status updates using the Gmail API and LLM-based batch classification, then writes results back to an Excel tracker  
+- Generates personalized cover letters and interview prep guides grounded in the user's profile and job description  
+- Scores job fit with structured match analysis and persists scores to the Excel tracker  
+- Supports multi-user sessions: each user uploads their own profile JSON, resume, and Excel tracker without affecting the default session
+
+---
+
 ## 💼 JPMorgan ML: Income Classification & Customer Segmentation  
 🔗 [GitHub Repo](https://github.com/oscar10408/JP-Morgan-ML)   📄 [Project Report (PDF)](https://github.com/oscar10408/JP-Morgan-ML/blob/main/JP_Morgan_ML_Report.pdf)
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
