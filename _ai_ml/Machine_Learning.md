@@ -27,7 +27,7 @@ A supervisor agent routes user intent to specialized sub-agents, each handling a
 
 ### 📈 FlowChart of Multi-Agent
 
-<img src="../assets/images/AI-Agent-flowchart.jpg" alt="AI-Agent-flowchart" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<img src="../assets/images/AI-Agent-flowchart.png" alt="AI-Agent-flowchart" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
 
 ---
