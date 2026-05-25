@@ -7,244 +7,123 @@ og_title: "Oscar Shih | Data Scientist Portfolio"
 og_description: "Projects in AI/ML, Data Analysis, Database Management, and Financial Modeling"
 ---
 
-<style>
-.pf-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-  margin: 2rem 0;
-}
-.pf-card {
-  border: 1px solid #e0e0e0;
-  border-radius: 12px;
-  overflow: hidden;
-  background: #fff;
-  transition: box-shadow 0.2s;
-  text-decoration: none;
-  color: inherit;
-  display: flex;
-  flex-direction: column;
-}
-.pf-card:hover {
-  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-  text-decoration: none;
-}
-.pf-card-img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
-}
-.pf-card-body {
-  padding: 16px;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-.pf-card-meta {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.pf-badge {
-  font-size: 11px;
-  font-weight: 600;
-  padding: 2px 10px;
-  border-radius: 20px;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-}
-.pf-badge-ai    { background: #e8f0fe; color: #1a56db; }
-.pf-badge-data  { background: #e3faea; color: #057a55; }
-.pf-badge-fin   { background: #fef3c7; color: #92400e; }
-.pf-badge-db    { background: #f3e8ff; color: #7e22ce; }
-.pf-live {
-  font-size: 11px;
-  color: #6b7280;
-  display: flex;
-  align-items: center;
-  gap: 3px;
-}
-.pf-card-title {
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 1.35;
-  color: #111;
-  margin: 0;
-}
-.pf-card-desc {
-  font-size: 13px;
-  color: #4b5563;
-  line-height: 1.55;
-  margin: 0;
-  flex: 1;
-}
-.pf-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 4px;
-}
-.pf-tag {
-  font-size: 11px;
-  background: #f3f4f6;
-  color: #374151;
-  padding: 2px 9px;
-  border-radius: 20px;
-  border: 1px solid #e5e7eb;
-}
-.pf-section-footer {
-  margin-top: 8px;
-  padding: 14px 18px;
-  background: #f9fafb;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.pf-section-footer p {
-  font-size: 13px;
-  color: #6b7280;
-  margin: 0;
-}
-.pf-section-footer a {
-  font-size: 12px;
-  padding: 4px 14px;
-  border: 1px solid #d1d5db;
-  border-radius: 6px;
-  color: #374151;
-  text-decoration: none;
-  background: #fff;
-}
-.pf-section-footer a:hover {
-  background: #f3f4f6;
-  text-decoration: none;
-}
-.pf-links { display: flex; gap: 8px; flex-wrap: wrap; }
-</style>
+<h1>Featured Posts</h1>
+<p style="font-size: 1.1rem; color: white;">{{ page.description }}
+</p>
+<hr>
 
-<h1>Featured projects</h1>
-<p style="color: #6b7280; font-size: 0.95rem; margin-bottom: 2rem;">A selection of work across machine learning, data analysis, financial modeling, and database systems.</p>
+<h2>🤖 LangGraph Multi-Agent Job Tracker</h2>
 
-<div class="pf-grid">
-
-  <a class="pf-card" href="https://oscar10408.github.io/ai-ml/" target="_blank">
-    <img class="pf-card-img" src="assets/images/LangChain Cover.png" alt="LangGraph Multi-Agent Job Tracker">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-ai">ML / AI</span>
-        <span class="pf-live">&#x1F7E2; Live demo</span>
-      </div>
-      <p class="pf-card-title">LangGraph multi-agent job tracker</p>
-      <p class="pf-card-desc">Supervisor + sub-agent workflow automating job tracking, Gmail scanning, JD scraping, cover letter generation, and job match scoring.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">LangGraph</span>
-        <span class="pf-tag">Groq</span>
-        <span class="pf-tag">Streamlit</span>
-        <span class="pf-tag">Gmail API</span>
-        <span class="pf-tag">Playwright</span>
-      </div>
-    </div>
-  </a>
-
-  <a class="pf-card" href="https://oscar10408.github.io/ai-ml/" target="_blank">
-    <img class="pf-card-img" src="assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-ai">ML / AI</span>
-        <span class="pf-live">&#x1F4C4; Paper</span>
-      </div>
-      <p class="pf-card-title">GUI-ASFormer: transformer-based GUI video segmentation</p>
-      <p class="pf-card-desc">Temporal transformer for detecting fine-grained GUI interactions (clicks, scrolls, inputs) in screen recordings. Extended from ASFormer.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">PyTorch</span>
-        <span class="pf-tag">Transformer</span>
-        <span class="pf-tag">ASFormer</span>
-        <span class="pf-tag">Computer Vision</span>
-      </div>
-    </div>
-  </a>
-
-  <a class="pf-card" href="https://oscar10408.github.io/ai-ml/" target="_blank">
-    <img class="pf-card-img" src="assets/images/JP-Morgan-Overview.png" alt="JPMorgan ML">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-ai">ML / AI</span>
-      </div>
-      <p class="pf-card-title">JPMorgan ML: income classification & customer segmentation</p>
-      <p class="pf-card-desc">End-to-end ML pipeline combining income classification and unsupervised customer segmentation for financial services analytics.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">XGBoost</span>
-        <span class="pf-tag">K-Means</span>
-        <span class="pf-tag">ROC-AUC</span>
-        <span class="pf-tag">Python</span>
-      </div>
-    </div>
-  </a>
-
-  <a class="pf-card" href="https://si649-narrative-project.streamlit.app/" target="_blank">
-    <img class="pf-card-img" src="assets/images/tornado_dashboard.jpg" alt="Tornado Dashboard">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-data">Data analysis</span>
-        <span class="pf-live">&#x1F7E2; Live demo</span>
-      </div>
-      <p class="pf-card-title">Tornado interactive dashboard</p>
-      <p class="pf-card-desc">Interactive NOAA data explorer for tornado frequency, severity, and economic impact across the US with dynamic filtering.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">Altair</span>
-        <span class="pf-tag">Streamlit</span>
-        <span class="pf-tag">NOAA</span>
-        <span class="pf-tag">Python</span>
-      </div>
-    </div>
-  </a>
-
-  <a class="pf-card" href="https://oscar10408.github.io/finance/" target="_blank">
-    <img class="pf-card-img" src="assets/images/T-Copula-fit.jpeg" alt="Copula Simulation">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-fin">Finance</span>
-      </div>
-      <p class="pf-card-title">Robust dependence modeling and copula simulation</p>
-      <p class="pf-card-desc">Copula functions for non-linear dependency modeling between financial assets, enabling tail-risk analysis and stress testing.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">R</span>
-        <span class="pf-tag">Copula</span>
-        <span class="pf-tag">VaR / ES</span>
-        <span class="pf-tag">Risk modeling</span>
-      </div>
-    </div>
-  </a>
-
-  <a class="pf-card" href="https://oscar10408.github.io/database-management/" target="_blank">
-    <img class="pf-card-img" src="assets/images/GHJ.jpg" alt="Grace Hash Join">
-    <div class="pf-card-body">
-      <div class="pf-card-meta">
-        <span class="pf-badge pf-badge-db">Database</span>
-      </div>
-      <p class="pf-card-title">Grace Hash Join implementation</p>
-      <p class="pf-card-desc">Low-level simulation of Grace Hash Join with disk I/O, buffer pool management, and recursive partitioning under memory constraints.</p>
-      <div class="pf-tags">
-        <span class="pf-tag">C++</span>
-        <span class="pf-tag">Buffer pool</span>
-        <span class="pf-tag">Join algorithms</span>
-      </div>
-    </div>
-  </a>
-
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+    <img src="../assets/images/LangChain Cover.png" alt="LangChain Cover" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
 
-<div class="pf-section-footer">
-  <p>More projects in ML/AI, database systems, and data analysis</p>
-  <div class="pf-links">
-    <a href="https://oscar10408.github.io/ai-ml/">ML / AI &rarr;</a>
-    <a href="https://oscar10408.github.io/data-analysis/">Data analysis &rarr;</a>
-    <a href="https://oscar10408.github.io/database-management/">Database &rarr;</a>
-    <a href="https://oscar10408.github.io/finance/">Finance &rarr;</a>
-  </div>
+<p>
+    A multi-agent AI application built with LangGraph, LangChain, Groq, and Streamlit to automate job application tracking, Gmail scanning, job description scraping, cover letter generation, interview preparation, and job match scoring through a supervisor-agent workflow.
+</p>
+<hr>
+
+<h2>🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+    <img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
 </div>
+
+<p>
+    This project adapts advanced transformer-based temporal models to analyze screen recordings and detect subtle human-computer interactions such as clicks, scrolls, and inputs within graphical user interfaces (GUI). Built upon the <a href="https://github.com/ChinaYi/ASFormer" target="_blank">ASFormer architecture</a>, the model is fine-tuned for GUI-specific semantics, enabling accurate segmentation and temporal localization of key user actions.
+</p>
+<hr>
+
+<h2>🌪️ Tornado Interactive Dashboard</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/data-analysis/" target="_blank">
+  <img src="../assets/images/tornado_dashboard.jpg" alt="Tornado Dashboard" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+</div>
+
+<p>
+  An interactive data visualization platform that maps historical tornado activity across the U.S. using NOAA records. The dashboard empowers users to uncover spatiotemporal patterns in frequency, severity, and economic impact of tornadoes through dynamic filtering and rich, responsive charts powered by Altair.
+</p>
+<hr>
+
+<h2>📊 Interactive Visualization of School Demographics and Performance</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/data-analysis/" target="_blank">
+  <img src="../assets/images/Interactive_chart_1.gif" alt="Dynamic Data Explorer" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+</div>
+
+<p>
+  This project provides an intuitive visual exploration of educational disparities by correlating school demographics, socioeconomic indicators, and academic performance across New York State. Through coordinated interactive views (maps, bar charts, gender pyramids), users can examine how race, income level, and school size affect student outcomes—offering insights for educators and policymakers.
+</p>
+<hr>
+
+
+<h2>📈 Robust Dependence Modeling and Copula Simulation</h2>
+
+<div style="display: flex; flex-wrap: nowrap; gap: 2rem; justify-content: center; align-items: stretch;">
+<a href="https://oscar10408.github.io/finance/" target="_blank">
+  <img src="../assets/images/T-Copula-fit.jpeg"
+       alt="T-Copula-fit"
+       style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+<a href="https://oscar10408.github.io/finance/" target="_blank">
+  <img src="../assets/images/T-Copula-Simulation.jpg"
+       alt="T-Copula-Simulation"
+       style="height: 330px; width: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+</div>
+
+<p>
+  This project focuses on advanced statistical modeling using copula functions to capture non-linear dependencies between financial assets. By decoupling marginal behavior from joint distribution structures, the simulation framework enables more accurate stress testing and tail-risk analysis in portfolio risk management.
+</p>
+<hr>
+
+<h2>📀 Grace Hash Join Implementation</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/database-management/" target="_blank">
+  <img src="../assets/images/GHJ.jpg" alt="Grace Hash Join Diagram" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+</div>
+
+<p>
+  A low-level simulation of the Grace Hash Join algorithm designed for efficient execution of relational joins on large datasets under memory constraints. The project replicates real-world database behavior, including disk I/O, buffer pool usage, and recursive partitioning, offering hands-on insights into external join processing and system-level optimization.
+</p>
+<hr>
+
+
+<h2>🧬 Unsupervised Learning Core: K-Means, GMM, and CVAE Implementations</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+  <a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+    <img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  </a>
+  <a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+    <img src="../assets/images/EigenFace.jpg" alt="EigenFace" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
+<p>
+  An in-depth exploration of unsupervised learning techniques implemented from scratch. It includes intuitive clustering via K-Means, probabilistic modeling with Gaussian Mixture Models (GMM), and representation learning using Conditional Variational Autoencoders (CVAE)—all visualized through interpretable 2D embeddings.
+</p>
+
+<hr>
+
+<h2>🖼️ CNN-RNN: Image Classification & Captioning from Scratch</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<a href="https://oscar10408.github.io/ai-ml/" target="_blank">
+  <img src="../assets/images/RNN_Demo.jpg" alt="RNN Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+</a>
+</div>
+
+<p>
+  A pure NumPy-based implementation of convolutional and recurrent neural networks for end-to-end image understanding. This project demonstrates fundamental deep learning concepts by classifying images using CNNs and generating descriptive captions with RNNs—without relying on high-level libraries like TensorFlow or PyTorch.
+</p>
+<hr>
