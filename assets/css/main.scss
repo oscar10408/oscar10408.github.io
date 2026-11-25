@@ -8,11 +8,20 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content {
-  max-width: 1100px !important;   // 或你想要的寬度，例如 1000px、1200px
-  margin: 0 auto;                 // 水平置中
+// ① 拿掉整站 1280px 的寬度上限（左右兩側的大片留白）
+#main,
+.masthead__inner-wrap,
+.page__footer footer {
+  max-width: 100% !important;
+  padding-inline: 2em;            // 左右保留的邊距，想更貼邊改成 1em
 }
 
+// ② 拿掉內容右側預留給目錄的 300px 空白
 .page {
-  max-width: 1200px !important;
+  padding-inline-end: 0 !important;
+}
+
+// ③ 內容區不額外限寬（覺得一行字太長可改成 1400px）
+.page__content {
+  max-width: 100% !important;
 }
