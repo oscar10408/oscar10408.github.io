@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## 🤖 LangGraph Multi-Agent Job Tracker
-🔗 [GitHub Repo](https://github.com/oscar10408/Langgraph-Multi-Agent-Job-Tracker)   🚀 [Live Demo](https://langgraph-multi-agent-job-tracker.streamlit.app/)
+🔗 [GitHub Repo](https://github.com/oscar10408/Langgraph-Multi-Agent-Job-Tracker) &nbsp;&nbsp;🚀 [Live Demo](https://langgraph-multi-agent-job-tracker.streamlit.app/)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 
 <a href="https://langgraph-multi-agent-job-tracker.streamlit.app/" target="_blank">
-    <img src="../assets/images/job-tracker.png" alt="LangGraph Job Tracker Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/job-tracker.png" alt="LangGraph Job Tracker Demo" class="project-img">
 </a>
 
 </div>
@@ -27,17 +27,19 @@ A supervisor agent routes user intent to specialized sub-agents, each handling a
 
 ### 📈 FlowChart of Multi-Agent
 
-<img src="../assets/images/AI-Agent-flowchart.png" alt="AI-Agent-flowchart" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<div class="project-images project-images--wide">
+<img src="../assets/images/AI-Agent-flowchart.png" alt="AI-Agent-flowchart" class="project-img">
+</div>
 
 
 ---
 
 ## 💼 JPMorgan ML: Income Classification & Customer Segmentation  
-🔗 [GitHub Repo](https://github.com/oscar10408/JP-Morgan-ML)   📄 [Project Report (PDF)](https://github.com/oscar10408/JP-Morgan-ML/blob/main/JP_Morgan_ML_Report.pdf)
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+🔗 [GitHub Repo](https://github.com/oscar10408/JP-Morgan-ML) &nbsp;&nbsp;📄 [Project Report (PDF)](https://github.com/oscar10408/JP-Morgan-ML/blob/main/JP_Morgan_ML_Report.pdf)
+<div class="project-images">
 
 <a href="https://github.com/oscar10408/JP-Morgan-ML" target="_blank">
-    <img src="../assets/images/JP-Morgan-Overview.png" alt="JPMorgan ML Project Overview" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/JP-Morgan-Overview.png" alt="JPMorgan ML Project Overview" class="project-img">
 </a>
 
 </div>
@@ -53,11 +55,11 @@ This project builds an end-to-end ML workflow for financial services analytics b
 ---
 
 ## 🎬 GUI-ASFormer: Transformer-Based GUI Video Segmentation
-🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer)   📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+🔗 [GitHub Repo](https://github.com/oscar10408/GUI-ASFormer) &nbsp;&nbsp;📄 [Project Paper (PDF)](/assets/GUI-ASFormer_Detecting_Keyframes_in_GUI_Videos.pdf)
+<div class="project-images">
 
 <a href="https://github.com/oscar10408/GUI-ASFormer" target="_blank">
-    <img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/GUI-ASFormer.jpg" alt="GUI-ASFormer Model" class="project-img">
 </a>
 
 </div>
@@ -72,16 +74,18 @@ It extends the [ASFormer architecture](https://github.com/ChinaYi/ASFormer) and 
 
 ### 📈 Results Snapshot
 
-<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" style="max-width: 1000px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<div class="project-images project-images--wide">
+<img src="../assets/images/GUI-Result.jpg" alt="GUI-Result" class="project-img">
+</div>
 
 ---
 
 ## 🏃 Health Activity Recommender: Contextual Bandit for Personalized Wellness  
 🔗 [GitHub Repo](https://github.com/oscar10408/Health-Activity-Recommender)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/Health-Activity-Recommender" target="_blank">
-    <img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/health-recommender-1.png" alt="Health Recommender Model" class="project-img">
 </a>
 </div>
 
@@ -99,12 +103,12 @@ By applying Thompson Sampling with contextual features, the system learns user p
 ## 🧬 Unsupervised Learning Core: K-Means, GMM, and CVAE Implementations  
 🔗 [GitHub Repo](https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images project-images--half">
 <a href="https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations" target="_blank">
-    <img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/Kmeans_Result.jpg" alt="Kmeans Result" class="project-img">
 </a>
 <a href="https://github.com/oscar10408/Unsupervised-Learning-Core-K-Means-GMM-and-CVAE-Implementations" target="_blank">
-    <img src="../assets/images/EigenFace.jpg" alt="EigenFace" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/EigenFace.jpg" alt="EigenFace" class="project-img">
 </a>
 </div>
 
@@ -122,9 +126,9 @@ It covers both clustering and generative modeling techniques, helping to visuali
 ## 🔁 Transfer Learning: Vision & Language Modeling with Transformers  
 🔗 [GitHub Repo](https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images project-images--small">
 <a href="https://github.com/oscar10408/Transfer-Learning-Transformer-based-Language-Modeling" target="_blank">
-    <img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" style="max-width: 450px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/Finetuned_Result.jpg" alt="Finetuned_Result" class="project-img">
 </a>
 </div>
 
@@ -142,9 +146,9 @@ It includes fine-tuning a ResNet model for image classification and training a c
 ## 🖼️ CNN-RNN: Image Classification & Captioning from Scratch  
 🔗 [GitHub Repo](https://github.com/oscar10408/CNN-for-Image-Classification-RNN-for-Image-Captioning)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/CNN-for-Image-Classification-RNN-for-Image-Captioning" target="_blank">
-    <img src="../assets/images/RNN_Demo.jpg" alt="RNN_Demo" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/RNN_Demo.jpg" alt="RNN_Demo" class="project-img">
 </a>
 </div>
 

@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## 🔩 Smart Torque Data Pipeline: Real-Time Screw Station Data Collection
-🔗 [GitHub Repo](https://github.com/oscar10408/smart-torque-logger)   🏭 Industry Project @ Foxconn (FII USA)
+🔗 [GitHub Repo](https://github.com/oscar10408/smart-torque-logger) &nbsp;&nbsp;🏭 Industry Project @ Foxconn (FII USA)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/smart-torque-logger" target="_blank">
-    <img src="../assets/images/smart-torque-pipeline.png" alt="Smart Torque Data Pipeline" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/smart-torque-pipeline.png" alt="Smart Torque Data Pipeline" class="project-img">
 </a>
 </div>
 

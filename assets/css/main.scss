@@ -8,20 +8,180 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// ① 拿掉整站 1280px 的寬度上限（左右兩側的大片留白）
+/* ==========================================================================
+   Layout width
+   ========================================================================== */
+
+// 拿掉整站 1280px 的寬度上限（左右兩側的大片留白）
 #main,
 .masthead__inner-wrap,
 .page__footer footer {
   max-width: 100% !important;
-  padding-inline: 2em;            // 左右保留的邊距，想更貼邊改成 1em
+  padding-inline: 2em;
 }
 
-// ② 拿掉內容右側預留給目錄的 300px 空白
-.page {
+// 拿掉內容右側預留給目錄的 300px 空白
+.page,
+.archive {
   padding-inline-end: 0 !important;
 }
 
-// ③ 內容區不額外限寬（覺得一行字太長可改成 1400px）
 .page__content {
   max-width: 100% !important;
+}
+
+/* ==========================================================================
+   Project images（所有頁面共用；尺寸只要改這裡）
+   ========================================================================== */
+
+$project-img-width: 960px;     // 分類頁單張圖的寬度
+$home-img-width: 900px;        // 首頁單張圖的寬度
+
+.project-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;     // 分類頁：置中
+  align-items: center;
+  margin: 1.5rem 0 2rem;
+
+  > a,
+  > img {
+    flex: 0 1 $project-img-width;
+  }
+
+  a { display: block; }
+}
+
+.project-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+a:hover > .project-img {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.45);
+}
+
+// 流程圖 / 結果圖：再寬一點
+.project-images--wide > img,
+.project-images--wide > a { flex-basis: 1200px; }
+
+// 原本比較小的圖
+.project-images--small > a { flex-basis: 720px; }
+
+// 兩張並排（寬度平分）
+.project-images--half > a {
+  flex: 1 1 0;
+  max-width: 640px;
+}
+
+// 兩張並排、等高（Finance 的 copula 圖）
+.project-images--pair {
+  flex-wrap: nowrap;
+  align-items: stretch;
+
+  > a { flex: 0 1 auto; }
+
+  .project-img {
+    height: 420px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  @media (max-width: 1024px) {
+    flex-wrap: wrap;
+    .project-img { height: auto; width: 100%; }
+  }
+}
+
+/* ==========================================================================
+   分類頁（layout: single）：內容整欄置中、文字好讀
+   ========================================================================== */
+
+$content-column: 1200px;
+
+.layout--single {
+  .page__inner-wrap > header,
+  .page__content > * {
+    max-width: $content-column;
+    margin-inline: auto;
+  }
+
+  .page__title {
+    margin-bottom: 1rem;
+  }
+
+  .page__content {
+    font-size: 0.95em;
+    line-height: 1.75;
+
+    h2 {
+      margin-top: 3.5rem;
+      padding-bottom: 0.5rem;
+    }
+
+    h2:first-child {
+      margin-top: 1rem;
+    }
+
+    h3 {
+      margin-top: 2rem;
+    }
+
+    p {
+      margin-bottom: 1rem;
+    }
+
+    ul {
+      margin-top: 0.5rem;
+    }
+
+    li {
+      margin-bottom: 0.45rem;
+    }
+
+    hr {
+      margin: 3rem auto;
+      opacity: 0.4;
+    }
+  }
+}
+
+/* ==========================================================================
+   首頁（layout: home）：圖片放大，但圖文維持置左
+   ========================================================================== */
+
+.layout--home {
+  .project-images {
+    justify-content: flex-start;
+    margin: 1rem 0 1.25rem;
+
+    > a { flex-basis: $home-img-width; }
+  }
+
+  .project-images--half > a {
+    flex: 0 1 calc((#{$home-img-width} - 2rem) / 2);
+  }
+
+  .project-images--pair .project-img {
+    height: 380px;
+  }
+
+  .archive {
+    h2 { margin-top: 2.5rem; }
+    p {
+      line-height: 1.75;
+      max-width: $home-img-width + 300px;
+    }
+    hr {
+      margin: 2.5rem 0;
+      opacity: 0.4;
+    }
+  }
 }

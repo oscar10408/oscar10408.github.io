@@ -8,9 +8,9 @@ author_profile: true
 ## 🗄️ Facebook-Style Relational Database Design  
 🔗 [GitHub Repo](https://github.com/oscar10408/FaceBook-Database-Construction)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/FaceBook-Database-Construction" target="_blank">
-    <img src="../assets/images/facebook_db_schema.jpg" alt="Facebook Database Schema" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/facebook_db_schema.jpg" alt="Facebook Database Schema" class="project-img">
 </a>
 </div>
 
@@ -27,9 +27,9 @@ This project involves designing and implementing a relational database schema fo
 ## 🖧 Facebook-Style JDBC Database Interaction  
 🔗 [GitHub Repo](https://github.com/oscar10408/facebook-JDBC)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/facebook-JDBC" target="_blank">
-    <img src="../assets/images/facebook_jdbc_schema.jpg" alt="Facebook JDBC Schema" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/facebook_jdbc_schema.jpg" alt="Facebook JDBC Schema" class="project-img">
 </a>
 </div>
 
@@ -46,9 +46,9 @@ This project demonstrates how to integrate Java applications with relational dat
 ## 🗃️ MongoDB User Data Analysis & Query  
 🔗 [GitHub Repo](https://github.com/oscar10408/MongoDB-User-Data-Analysis-and-Query)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/MongoDB-User-Data-Analysis-and-Query" target="_blank">
-    <img src="../assets/images/mongodb_user_analysis.jpg" alt="MongoDB User Analysis" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="../assets/images/mongodb_user_analysis.jpg" alt="MongoDB User Analysis" class="project-img">
 </a>
 </div>
 
@@ -67,9 +67,9 @@ It showcases data extraction from Oracle, transformation into JSON, and aggregat
 ## 📀 Grace Hash Join Implementation  
 🔗 [GitHub Repo](https://github.com/oscar10408/Grace-Hash-Join-GHJ)
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+<div class="project-images">
 <a href="https://github.com/oscar10408/Grace-Hash-Join-GHJ" target="_blank">
-    <img src="../assets/images/GHJ.jpg" alt="Grace Hash Join Diagram" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">  
+    <img src="../assets/images/GHJ.jpg" alt="Grace Hash Join Diagram" class="project-img">  
 </a>
 </div>
 
